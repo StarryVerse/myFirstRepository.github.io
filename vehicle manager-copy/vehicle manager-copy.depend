@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1639494063 source:c:\workspace\evenp\vehicle manager-copy\vehicle.cpp
+	"vehicle.h"
+
+1639494041 c:\workspace\evenp\vehicle manager-copy\vehicle.h
+
+1639729473 source:c:\workspace\evenp\vehicle manager-copy\manager.cpp
+	"manager.h"
+
+1639501506 c:\workspace\evenp\vehicle manager-copy\manager.h
+	<iostream>
+	<windows.h>
+	<fstream>
+	<iomanip>
+	<conio.h>
+	"vehicle.h"
+
+1639499518 source:c:\workspace\evenp\vehicle manager-copy\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<iomanip>
+	"vehicle.h"
+	"manager.h"
+
+1639541979 source:c:\workspace\evenp\vehicle manager-copy\bus.cpp
+	"bus.h"
+
+1639541973 c:\workspace\evenp\vehicle manager-copy\bus.h
+	"vehicle.h"
+	<string.h>
+
+1639541786 source:c:\workspace\evenp\vehicle manager-copy\car.cpp
+	"car.h"
+
+1639541816 c:\workspace\evenp\vehicle manager-copy\car.h
+	"vehicle.h"
+	<string.h>
+
+1639541581 source:c:\workspace\evenp\vehicle manager-copy\truck.cpp
+	"truck.h"
+
+1639541973 c:\workspace\evenp\vehicle manager-copy\truck.h
+	"vehicle.h"
+	<string.h>
+
